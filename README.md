@@ -11,7 +11,7 @@
 <br/>
 
 <!-- Social Badges -->
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID/" target="_blank">
+<a href="https://www.linkedin.com/in/nivas-linga/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" />
 </a>
 <a href="mailto:venkatanivaslinga@gmail.com">
@@ -20,7 +20,7 @@
 <a href="tel:+917842812616">
   <img src="https://img.shields.io/badge/Call-25D366?style=for-the-badge&amp;logo=whatsapp&amp;logoColor=white" />
 </a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
+<a href="https://github.com/nivaslinga2" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
 </a>
 
@@ -50,7 +50,7 @@ me.say_hi()
 - 🎓 Currently pursuing **B.Tech in AI & Data Science** @ Vishnu Institute of Technology (CGPA: **8.9**)
 - 💼 Former **Software Developer Intern** @ Vishnu Foundation TBI — built real-time control systems & edge-AI vision pipelines
 - 🏆 **Finalist, Smart India Hackathon 2025** — built QuMail, a quantum-secure email system using IBM Qiskit
-- 🥇 **6× Hackathon Winner** (institute & external)
+- 🥇 **7× Hackathon Winner** (institute & external)
 - 🧩 Solved **500+ DSA problems** across LeetCode, CodeChef & GeeksForGeeks
 - 🌱 Deep interest in **LLMs, RAG pipelines, and applied Machine Learning**
 - 📫 Reach me at **venkatanivaslinga@gmail.com**
@@ -93,7 +93,7 @@ me.say_hi()
 
 Full-stack MERN platform with real-time chat/video via WebRTC supporting **200+ concurrent users** at **99.5% uptime**. Integrated Redis caching + load balancing (↓30% crashes, ↑45% load speed) and an OpenAI-powered recommendation engine (↑35% engagement, ↑25% session duration). CI/CD via GitHub Actions + Vercel cut release time by **90%**.
 
-[![Repo](https://img.shields.io/badge/View-Repository-2575fc?style=flat-square&logo=github)](https://github.com/YOUR_GITHUB_USERNAME/herbsphere)
+[![Repo](https://img.shields.io/badge/View-Repository-2575fc?style=flat-square&logo=github)](https://github.com/nivaslinga2/Herbspere.git)
 
 </td>
 <td width="50%" valign="top">
@@ -103,7 +103,7 @@ Full-stack MERN platform with real-time chat/video via WebRTC supporting **200+ 
 
 End-to-end ML pipeline forecasting daily sales for **1,115 Rossmann stores** across Germany (2013–2015) using SARIMAX, Prophet & auto-ARIMA. Deployed via FastAPI + Docker, improving forecast **MAPE from 26% → 7%**.
 
-[![Repo](https://img.shields.io/badge/View-Repository-2575fc?style=flat-square&logo=github)](https://github.com/YOUR_GITHUB_USERNAME/rossmann-sales-forecasting)
+[![Repo](https://img.shields.io/badge/View-Repository-2575fc?style=flat-square&logo=github)](https://github.com/nivaslinga2/Sales-forecasting.git)
 
 </td>
 </tr>
@@ -115,17 +115,17 @@ End-to-end ML pipeline forecasting daily sales for **1,115 Rossmann stores** acr
 
 Feature-engineered Titanic passenger data (age grouping, title extraction, fare binning) and trained a **Random Forest Classifier** reaching **74.86% validation accuracy**. Produced 9 analytical visualizations covering survival trends & feature importance.
 
-[![Repo](https://img.shields.io/badge/View-Repository-2575fc?style=flat-square&logo=github)](https://github.com/YOUR_GITHUB_USERNAME/titanic-survival-prediction)
+[![Repo](https://img.shields.io/badge/View-Repository-2575fc?style=flat-square&logo=github)](https://github.com/nivaslinga2/Titanic-Survival-Prediction-Using-ML.git)
 
 </td>
 <td width="50%" valign="top">
 
-### 🔐 QuMail — Quantum-Secure Email
-**IBM Qiskit · 256-bit Encryption**
+### 🔐 AI-Text-Detection
+**Numpy . Pandas . Transformers . Qiskit**
 
-**Smart India Hackathon 2025 Finalist.** Quantum-secure email system using IBM Qiskit with 256-bit keys and 4-layer encryption, achieving **100% message secrecy**.
+**High Performance Classical Detection: Fused Feature MLP Neural Network achieves 95.20% Accuracy and 0.9872 ROC AUC on the HC3 dataset (170,898 text samples).** **Quantum Classifier Pipeline: Implements 4-qubit & 8-qubit Variational Quantum Circuits (VQC) and Quantum State Fidelity Kernel Classifiers (QSVC), reaching 0.7811 ROC AUC.**.
 
-[![Repo](https://img.shields.io/badge/View-Repository-2575fc?style=flat-square&logo=github)](https://github.com/YOUR_GITHUB_USERNAME/qumail)
+[![Repo](https://img.shields.io/badge/View-Repository-2575fc?style=flat-square&logo=github)](https://github.com/nivaslinga2/AI-Text_Detection.git)
 
 </td>
 </tr>
@@ -165,18 +165,18 @@ Feature-engineered Titanic passenger data (age grouping, title extraction, fare 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" width="35%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=nivaslinga2&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nivaslinga2&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" width="35%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&amp;theme=tokyonight&amp;hide_border=true" width="70%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nivaslinga2&amp;theme=tokyonight&amp;hide_border=true" width="70%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&amp;theme=tokyo-night&amp;hide_border=true" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nivaslinga2&amp;theme=tokyo-night&amp;hide_border=true" width="90%"/>
 
 </div>
 
 <!-- Snake contribution animation - requires a GitHub Action, see notes below -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" width="90%"/>
+  <img src="https://raw.githubusercontent.com/nivaslinga2/nivaslinga2/output/github-contribution-grid-snake-dark.svg" width="90%"/>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:2575fc,100:6a11cb&amp;height=120&amp;section=footer"/>
