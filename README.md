@@ -1,32 +1,32 @@
 <div align="center">
 
 <!-- Animated Wave Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Venkata%20Nivas%20Linga&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Data%20Science%20Engineer%20%7C%20Full-Stack%20Builder%20%7C%20ML%20%2F%20LLM%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:6a11cb,100:2575fc&amp;height=220&amp;section=header&amp;text=Venkata%20Nivas%20Linga&amp;fontSize=42&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=AI%20%26%20Data%20Science%20Engineer%20%7C%20Full-Stack%20Builder%20%7C%20ML%20%2F%20LLM%20Enthusiast&amp;descAlignY=55&amp;descSize=18" width="100%"/>
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=2575FC&center=true&vCenter=true&width=650&lines=Building+intelligent+systems+with+AI+%26+ML;RAG+Pipelines+%7C+LLMs+%7C+Full-Stack+Development;6x+Hackathon+Winner+%7C+SIH+2025+Finalist;500%2B+DSA+Problems+Solved+Across+Platforms" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;weight=600&amp;size=24&amp;duration=3000&amp;pause=800&amp;color=2575FC&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Building+intelligent+systems+with+AI+%26+ML;RAG+Pipelines+%7C+LLMs+%7C+Full-Stack+Development;6x+Hackathon+Winner+%7C+SIH+2025+Finalist;500%2B+DSA+Problems+Solved+Across+Platforms" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <!-- Social Badges -->
 <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" />
 </a>
 <a href="mailto:venkatanivaslinga@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" />
 </a>
 <a href="tel:+917842812616">
-  <img src="https://img.shields.io/badge/Call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Call-25D366?style=for-the-badge&amp;logo=whatsapp&amp;logoColor=white" />
 </a>
 <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
 </a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2575fc,100:6a11cb&height=3&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:2575fc,100:6a11cb&amp;height=3&amp;section=header"/>
 
 ## About Me
 
@@ -55,13 +55,13 @@ me.say_hi()
 - 🌱 Deep interest in **LLMs, RAG pipelines, and applied Machine Learning**
 - 📫 Reach me at **venkatanivaslinga@gmail.com**
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2575fc,100:6a11cb&height=3&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:2575fc,100:6a11cb&amp;height=3&amp;section=header"/>
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,java,js,cpp,git,github,vscode,aws,linux,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=py,java,js,cpp,git,github,vscode,aws,linux,figma&amp;theme=dark" />
 
 <br/><br/>
 
@@ -80,7 +80,7 @@ me.say_hi()
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2575fc,100:6a11cb&height=3&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:2575fc,100:6a11cb&amp;height=3&amp;section=header"/>
 
 ## 🚀 Featured Projects
 
@@ -131,7 +131,7 @@ Feature-engineered Titanic passenger data (age grouping, title extraction, fare 
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2575fc,100:6a11cb&height=3&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:2575fc,100:6a11cb&amp;height=3&amp;section=header"/>
 
 ## 💼 Experience
 
@@ -142,7 +142,7 @@ Feature-engineered Titanic passenger data (age grouping, title extraction, fare 
 - Deployed **OpenCV**-based face, mask & object detection on **NVIDIA Jetson Nano, Orion Nano & AGX Orion** for edge-AI TBI products
 - Built a real-time object detection system using **YOLOv3 + OpenCV**, detecting 80 object classes from live video
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2575fc,100:6a11cb&height=3&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:2575fc,100:6a11cb&amp;height=3&amp;section=header"/>
 
 ## 🏅 Certifications
 
@@ -159,18 +159,18 @@ Feature-engineered Titanic passenger data (age grouping, title extraction, fare 
 - **Co-Champion**, Vishnu Student Success Centre — mentored students via academic & tech workshops
 - **Organizer**, VFTBI — built the registration platform for a 2,000+ footprint event
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2575fc,100:6a11cb&height=3&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:2575fc,100:6a11cb&amp;height=3&amp;section=header"/>
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="35%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" width="35%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" width="70%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&amp;theme=tokyonight&amp;hide_border=true" width="70%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&amp;theme=tokyo-night&amp;hide_border=true" width="90%"/>
 
 </div>
 
@@ -179,7 +179,7 @@ Feature-engineered Titanic passenger data (age grouping, title extraction, fare 
   <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" width="90%"/>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:2575fc,100:6a11cb&amp;height=120&amp;section=footer"/>
 
 <div align="center">
   <i>⭐️ From <b>Venkata Nivas Linga</b> — thanks for visiting my profile!</i>
