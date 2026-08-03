@@ -30,22 +30,13 @@
 
 ## About Me
 
-```python
-class NivasLinga:
-    def __init__(self):
-        self.role = "B.Tech AI & Data Science Student"
-        self.institute = "Vishnu Institute of Technology (Autonomous)"
-        self.cgpa = 8.9
-        self.languages = ["English", "Telugu", "Hindi", "German"]
-        self.focus = ["Machine Learning", "LLMs & RAG Pipelines", "Full-Stack Dev", "Edge AI"]
-        self.currently_exploring = "Quantum-secure communication & production-grade RAG systems"
+## About Me
 
-    def say_hi(self):
-        print("Thanks for stopping by — let's build something great together!")
+I’m **Venkata Nivas Linga**, a pre-final year B.Tech student in **AI & Data Science** at Vishnu Institute of Technology. I’m passionate about **software development, data science, machine learning, and quantum computing**, and I enjoy building projects that combine practical engineering with strong problem-solving.
 
-me = NivasLinga()
-me.say_hi()
-```
+I’ve worked on real-time control and edge-AI projects using **Python, C, Raspberry Pi, and NVIDIA Jetson**, and I’ve also explored **Qiskit**, forecasting, and full-stack development. Beyond projects, I actively practice **DSA**, participate in **hackathons**, and prepare for **internships** and competitive opportunities.
+
+I like turning ideas into working systems, whether that means writing clean backend code, analyzing data, or experimenting with new tech. My goal is to grow as a strong **software engineer** while staying curious across AI, cloud, and emerging technologies.
 
 - 🎓 Currently pursuing **B.Tech in AI & Data Science** @ Vishnu Institute of Technology (CGPA: **8.9**)
 - 💼 Former **Software Developer Intern** @ Vishnu Foundation TBI — built real-time control systems & edge-AI vision pipelines
@@ -61,7 +52,7 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,java,js,cpp,git,github,vscode,aws,linux,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=py,java,js,cpp,react,git,github,vscode,aws,linux,figma&theme=dark" />
 
 <br/><br/>
 
