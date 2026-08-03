@@ -1,32 +1,32 @@
 <div align="center">
 
 <!-- Animated Wave Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:6a11cb,100:2575fc&amp;height=220&amp;section=header&amp;text=Venkata%20Nivas%20Linga&amp;fontSize=42&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=AI%20%26%20Data%20Science%20Engineer%20%7C%20Full-Stack%20Builder%20%7C%20ML%20%2F%20LLM%20Enthusiast&amp;descAlignY=55&amp;descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Venkata%20Nivas%20Linga&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Data%20Science%20Engineer%20%7C%20Full-Stack%20Builder%20%7C%20ML%20%2F%20LLM%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;weight=600&amp;size=24&amp;duration=3000&amp;pause=800&amp;color=2575FC&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Building+intelligent+systems+with+AI+%26+ML;RAG+Pipelines+%7C+LLMs+%7C+Full-Stack+Development;6x+Hackathon+Winner+%7C+SIH+2025+Finalist;500%2B+DSA+Problems+Solved+Across+Platforms" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=2575FC&center=true&vCenter=true&width=650&lines=Building+intelligent+systems+with+AI+%26+ML;RAG+Pipelines+%7C+LLMs+%7C+Full-Stack+Development;7x+Hackathon+Winner+%7C+SIH+2025+Finalist;500%2B+DSA+Problems+Solved+Across+Platforms" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <!-- Social Badges -->
 <a href="https://www.linkedin.com/in/nivas-linga/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:venkatanivaslinga@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="tel:+917842812616">
-  <img src="https://img.shields.io/badge/Call-25D366?style=for-the-badge&amp;logo=whatsapp&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/Call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 <a href="https://github.com/nivaslinga2" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:2575fc,100:6a11cb&amp;height=3&amp;section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2575fc,100:6a11cb&height=3&section=header"/>
 
 ## About Me
 
@@ -55,13 +55,13 @@ me.say_hi()
 - 🌱 Deep interest in **LLMs, RAG pipelines, and applied Machine Learning**
 - 📫 Reach me at **venkatanivaslinga@gmail.com**
 
-<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:2575fc,100:6a11cb&amp;height=3&amp;section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2575fc,100:6a11cb&height=3&section=header"/>
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,java,js,cpp,git,github,vscode,aws,linux,figma&amp;theme=dark" />
+<img src="https://skillicons.dev/icons?i=py,java,js,cpp,git,github,vscode,aws,linux,figma&theme=dark" />
 
 <br/><br/>
 
@@ -80,7 +80,7 @@ me.say_hi()
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:2575fc,100:6a11cb&amp;height=3&amp;section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2575fc,100:6a11cb&height=3&section=header"/>
 
 ## 🚀 Featured Projects
 
@@ -101,19 +101,20 @@ Full-stack MERN platform with real-time chat/video via WebRTC supporting **200+ 
 ### 📈 Rossmann Store Sales Forecasting
 **Python · Prophet · SARIMAX · FastAPI**
 
-End-to-end ML pipeline forecasting daily sales for **1,115 Rossmann stores** across Germany (2013–2015) using SARIMAX, Prophet & auto-ARIMA. Deployed via FastAPI + Docker, improving forecast **MAPE from 26% → 7%**.
+Built an end-to-end demand forecasting pipeline using Rossmann historical sales data, advanced time-series models, and a FastAPI inference layer for business-ready predictions. Focused on trend decomposition, holiday effects, seasonality, and deployment-friendly forecasting workflows.
 
-[![Repo](https://img.shields.io/badge/View-Repository-2575fc?style=flat-square&logo=github)](https://github.com/nivaslinga2/Sales-forecasting.git)
+[![Repo](https://img.shields.io/badge/View-Repository-2575fc?style=flat-square&logo=github)](https://github.com/nivaslinga2)
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
-### 🚢 Titanic Survival Prediction
-**Python · Pandas · Scikit-learn · Matplotlib**
+### 🚢 Titanic Survival Prediction Using ML
+**Python · Scikit-Learn · Pandas · NumPy**
 
-Feature-engineered Titanic passenger data (age grouping, title extraction, fare binning) and trained a **Random Forest Classifier** reaching **74.86% validation accuracy**. Produced 9 analytical visualizations covering survival trends & feature importance.
+Developed a machine learning classification pipeline for survival prediction with feature engineering, preprocessing, and model evaluation. Explored passenger demographics and travel attributes to improve predictive performance.
 
 [![Repo](https://img.shields.io/badge/View-Repository-2575fc?style=flat-square&logo=github)](https://github.com/nivaslinga2/Titanic-Survival-Prediction-Using-ML.git)
 
@@ -121,9 +122,11 @@ Feature-engineered Titanic passenger data (age grouping, title extraction, fare 
 <td width="50%" valign="top">
 
 ### 🔐 AI-Text-Detection
-**Numpy . Pandas . Transformers . Qiskit**
+**NumPy · Pandas · Transformers · Qiskit**
 
-**High Performance Classical Detection: Fused Feature MLP Neural Network achieves 95.20% Accuracy and 0.9872 ROC AUC on the HC3 dataset (170,898 text samples).** **Quantum Classifier Pipeline: Implements 4-qubit & 8-qubit Variational Quantum Circuits (VQC) and Quantum State Fidelity Kernel Classifiers (QSVC), reaching 0.7811 ROC AUC.**.
+High Performance Classical Detection: Fused Feature MLP Neural Network achieves 95.20% accuracy and 0.9872 ROC AUC on the HC3 dataset (170,898 text samples).
+
+Quantum Classifier Pipeline: Implements 4-qubit and 8-qubit Variational Quantum Circuits (VQC) and Quantum State Fidelity Kernel Classifiers (QSVC), reaching 0.7811 ROC AUC.
 
 [![Repo](https://img.shields.io/badge/View-Repository-2575fc?style=flat-square&logo=github)](https://github.com/nivaslinga2/AI-Text_Detection.git)
 
@@ -131,18 +134,19 @@ Feature-engineered Titanic passenger data (age grouping, title extraction, fare 
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:2575fc,100:6a11cb&amp;height=3&amp;section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2575fc,100:6a11cb&height=3&section=header"/>
 
 ## 💼 Experience
 
-<img src="https://img.shields.io/badge/Vishnu%20Foundation%20TBI-Software%20Developer%20Intern-2575fc?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Vishnu%20Foundation%20TBI-Software%20Developer%20Intern-2575fc?style=for-the-badge" />
 
 **May 2025 – Aug 2025 · Bhimavaram, India**
-- Built Python modules on **Raspberry Pi** for real-time control & data processing in smart dental equipment
-- Deployed **OpenCV**-based face, mask & object detection on **NVIDIA Jetson Nano, Orion Nano & AGX Orion** for edge-AI TBI products
+
+- Built Python modules on **Raspberry Pi** for real-time control and data processing in smart dental equipment
+- Deployed **OpenCV**-based face, mask, and object detection on **NVIDIA Jetson Nano, Orion Nano, and AGX Orion** for edge-AI TBI products
 - Built a real-time object detection system using **YOLOv3 + OpenCV**, detecting 80 object classes from live video
 
-<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:2575fc,100:6a11cb&amp;height=3&amp;section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2575fc,100:6a11cb&height=3&section=header"/>
 
 ## 🏅 Certifications
 
@@ -154,33 +158,27 @@ Feature-engineered Titanic passenger data (age grouping, title extraction, fare 
 | Quantum Fundamentals & Quantum Algorithms | WISER |
 | Software Engineer Intern | HackerRank |
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2575fc,100:6a11cb&height=3&section=header"/>
+
 ## 🎖️ Positions of Responsibility
 
-- **Co-Champion**, Vishnu Student Success Centre — mentored students via academic & tech workshops
+- **Co-Champion**, Vishnu Student Success Centre — mentored students via academic and tech workshops
 - **Organizer**, VFTBI — built the registration platform for a 2,000+ footprint event
 
-<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:2575fc,100:6a11cb&amp;height=3&amp;section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2575fc,100:6a11cb&height=3&section=header"/>
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=nivaslinga2&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nivaslinga2&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" width="35%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nivaslinga2&amp;theme=tokyonight&amp;hide_border=true" width="70%"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nivaslinga2&amp;theme=tokyo-night&amp;hide_border=true" width="90%"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=nivaslinga2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nivaslinga2&layout=compact&theme=tokyonight&hide_border=true" width="35%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nivaslinga2&theme=tokyonight&hide_border=true" width="70%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nivaslinga2&theme=tokyo-night&hide_border=true" width="90%" />
 </div>
 
-<!-- Snake contribution animation - requires a GitHub Action, see notes below -->
+<!-- Snake contribution animation -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/nivaslinga2/nivaslinga2/output/github-contribution-grid-snake-dark.svg" width="90%"/>
+  <img src="https://raw.githubusercontent.com/nivaslinga2/nivaslinga2/output/github-contribution-grid-snake-dark.svg" width="90%" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:2575fc,100:6a11cb&amp;height=120&amp;section=footer"/>
-
-<div align="center">
-  <i>⭐️ From <b>Venkata Nivas Linga</b> — thanks for visiting my profile!</i>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer"/>
