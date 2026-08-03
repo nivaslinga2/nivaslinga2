@@ -1,8 +1,7 @@
 <div align="center">
 
 <!-- Animated Wave Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6a11cb,100:2575fc&height=200&section=header&text=Hi%20there,%20I'm%20Venkata Nivas&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI&ML%20Engineer%20and%20Data Engineer%20Developer&descAlignY=55&descSize=18" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:6a11cb,100:2575fc&amp;height=220&amp;section=header&amp;text=Venkata%20Nivas%20Linga&amp;fontSize=42&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=AI%20and%20Data%20Science%20Engineer%20%7C%20Full-Stack%20Builder%20%7C%20ML%20/%20LLM%20Enthusiast&amp;descAlignY=55&amp;descSize=18" width="100%"/>
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=2575FC&center=true&vCenter=true&width=650&lines=Building+intelligent+systems+with+AI+%26+ML;RAG+Pipelines+%7C+LLMs+%7C+Full-Stack+Development;7x+Hackathon+Winner+%7C+SIH+2025+Finalist;500%2B+DSA+Problems+Solved+Across+Platforms" alt="Typing SVG" />
